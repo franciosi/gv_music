@@ -1,2 +1,2 @@
 # gv_music
-Songs for Great Moments
+GV Curated Collection of Amazing Sets on YouTube
